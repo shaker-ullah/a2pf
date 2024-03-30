@@ -1,0 +1,64 @@
+
+ [
+   {
+     "title": "Pride and Prejudice",
+     "id": 1,
+     "review": "Orwell's dystopian vision of a totalitarian society is chilling and thought-provoking. While the oppressive regime depicted in the novel feels eerily relevant, the narrative can be dense and unsettling at times."
+     ,
+     "image": "https://i.postimg.cc/0jG3FD38/1131528-OQ72-BJ0.jpg",
+     "category": "Romance",
+     "ratings": 4.6,
+     "writer": "Jane Austen"
+   },
+   {
+     "title": "The Hobbit",
+     "id": 2,
+     "image": "https://i.postimg.cc/k4bLNkvR/1093361-723.jpg",
+     "category": "Fantasy",
+     "ratings": 4.7,
+     "review": "Orwell's dystopian vision of a totalitarian society is chilling and thought-provoking. While the oppressive regime depicted in the novel feels eerily relevant, the narrative can be dense and unsettling at times."
+     ,
+     "writer": "J.R.R. Tolkien"
+   },
+   {
+     "title": "To Kill a Mockingbird",
+     "id": 3,
+     "review": "Orwell's dystopian vision of a totalitarian society is chilling and thought-provoking. While the oppressive regime depicted in the novel feels eerily relevant, the narrative can be dense and unsettling at times.",
+     "image": "https://i.postimg.cc/kMWk2P5k/1275968-OVRD5-P0.jpg",
+     "category": "Classic Literature",
+     "ratings": 4.8,
+     "writer": "Harper Lee"
+   },
+   {
+     "title": "The Catcher in the Rye",
+     "id": 4,
+     "review": "Orwell's dystopian vision of a totalitarian society is chilling and thought-provoking. While the oppressive regime depicted in the novel feels eerily relevant, the narrative can be dense and unsettling at times."
+     ,
+     "image": "https://i.postimg.cc/fyQp8B82/morgan-housel-a-Z-Mm-Sm-Acjg-unsplash.jpg",
+     "category": "Classic Literature",
+     "ratings": 4.3,
+     "writer": "J.D. Salinger"
+   },
+   {
+     "title": "1984",
+     "id": 5,
+     "image": "https://i.postimg.cc/m2RKMpzh/surja-sen-das-raj-Vi-Mr-Mawjj7s-unsplash.jpg",
+     "category": "Dystopian Fiction",
+     "ratings": 4.6,
+     "review": "Orwell's dystopian vision of a totalitarian society is chilling and thought-provoking. While the oppressive regime depicted in the novel feels eerily relevant, the narrative can be dense and unsettling at times."
+     ,"writer": "George Orwell"
+   },
+   {
+     "title": "The Lord of the Rings",
+     "id": 6,
+     "image": "https://i.postimg.cc/m2RKMpzh/surja-sen-das-raj-Vi-Mr-Mawjj7s-unsplash.jpg",
+     "category": "Fantasy",
+     "ratings": 4.9,
+     "writer": "J.R.R. Tolkien",
+     "review": "Orwell's dystopian vision of a totalitarian society is chilling and thought-provoking. While the oppressive regime depicted in the novel feels eerily relevant, the narrative can be dense and unsettling at times."
+
+   }
+ ]
+ 
+ 
+  
