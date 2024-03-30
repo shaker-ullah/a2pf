@@ -41,7 +41,7 @@ const Header = () => {
   </div>
   <div className="navbar-end">
     <NavLink className='mr-4 btn bg-lime-500'>Sign In</NavLink>
-    <NavLink className='mr-4 btn bg-green-400'>Sign UP</NavLink>
+    <NavLink className='mr-4 btn bg-green-400'>Sign Up</NavLink>
   </div>
 </div>
         </div>

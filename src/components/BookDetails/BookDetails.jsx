@@ -1,18 +1,19 @@
 import { useLoaderData, useParams } from "react-router-dom";
-import { ToastContainer, toast } from 'react-toastify';
+import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
+import { saveData } from "../../utilities/Storage";
 
 const BookDetails = () => {
     const details = useLoaderData()
     const {id} = useParams()
     const idInt = parseInt(id)
-    console.log(idInt)
+    // console.log(idInt)
     const book = details.find(detail=>detail.id === idInt)
-    console.log(book)
+    // console.log(book)
 
 
-const handleRead =()=>{
-  toast('you have add successfully ')
+const handleRead =(book)=>{
+  saveData(book)
 }
 
 
@@ -46,7 +47,7 @@ const handleRead =()=>{
       <p className="m-4">Ratings: {book.ratings}</p>
      </div>
      <div>
-     <button onClick={handleRead} className="btn btn-outline btn-accent mx-6">Read</button>
+     <button onClick={()=>handleRead(book)} className="btn btn-outline btn-accent mx-6">Read</button>
      <button className="btn btn-gray btn-accent">Wishes</button>
 
      </div>
